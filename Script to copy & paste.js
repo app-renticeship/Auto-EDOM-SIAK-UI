@@ -8,3 +8,4 @@ for(i = 0; i < entries.length; i++)
             entry.checked = "checked";
     }
 }
+ 

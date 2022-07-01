@@ -6,5 +6,5 @@ Instructions:
 Open up "isi EDOM" form page  
 Open inspect element in your browser  
 Navigate to the Console tab  
-Copy & paste the script inside "script to copy & paste.js  
+Copy & paste the script inside "script to copy & paste.js"  
 Enter & enjoy :D  
